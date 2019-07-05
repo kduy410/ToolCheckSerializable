@@ -1,0 +1,10 @@
+D:\VS Workspace\WindowsFormsAppKTTXD\WindowsFormsAppKTTXD\bin\Debug\WindowsFormsAppKTTXD.exe.config
+D:\VS Workspace\WindowsFormsAppKTTXD\WindowsFormsAppKTTXD\bin\Debug\WindowsFormsAppKTTXD.exe
+D:\VS Workspace\WindowsFormsAppKTTXD\WindowsFormsAppKTTXD\bin\Debug\WindowsFormsAppKTTXD.pdb
+D:\VS Workspace\WindowsFormsAppKTTXD\WindowsFormsAppKTTXD\obj\Debug\WindowsFormsAppKTTXD.csprojAssemblyReference.cache
+D:\VS Workspace\WindowsFormsAppKTTXD\WindowsFormsAppKTTXD\obj\Debug\WindowsFormsAppKTTXD.Form1.resources
+D:\VS Workspace\WindowsFormsAppKTTXD\WindowsFormsAppKTTXD\obj\Debug\WindowsFormsAppKTTXD.Properties.Resources.resources
+D:\VS Workspace\WindowsFormsAppKTTXD\WindowsFormsAppKTTXD\obj\Debug\WindowsFormsAppKTTXD.csproj.GenerateResource.cache
+D:\VS Workspace\WindowsFormsAppKTTXD\WindowsFormsAppKTTXD\obj\Debug\WindowsFormsAppKTTXD.csproj.CoreCompileInputs.cache
+D:\VS Workspace\WindowsFormsAppKTTXD\WindowsFormsAppKTTXD\obj\Debug\WindowsFormsAppKTTXD.exe
+D:\VS Workspace\WindowsFormsAppKTTXD\WindowsFormsAppKTTXD\obj\Debug\WindowsFormsAppKTTXD.pdb
